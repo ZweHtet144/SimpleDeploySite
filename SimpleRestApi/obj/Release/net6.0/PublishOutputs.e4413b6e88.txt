@@ -1,0 +1,12 @@
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\SimpleRestApi.exe
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\SimpleRestApi.dll
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\SimpleRestApi.deps.json
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\SimpleRestApi.runtimeconfig.json
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\SimpleRestApi.pdb
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MyProjects\SimpleRestApi\SimpleRestApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
